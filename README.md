@@ -1,4 +1,4 @@
-# IBM Data Analyst Capstone Project
+# Emerging Skills Analytics Dashboard
 
 This repository contains the IBM Data Analyst Capstone Project, which is divided into five modules. Each module focuses on different aspects of data analysis, including data collection, data wrangling, exploratory data analysis, data visualization, and building a dashboard. Additionally, the repository includes a final PowerPoint presentation summarizing the findings and insights gained throughout the project.
 
@@ -24,11 +24,7 @@ This repository contains the IBM Data Analyst Capstone Project, which is divided
    - Building a comprehensive dashboard to present data analysis results.
    - [Module 5 Details](Module_5_Building_A_Dashboard/README.md)
 
-## Final Presentation
 
-A comprehensive PowerPoint presentation summarizing the findings and insights from the project is available:
-
-- [Final Capstone Project Presentation](Final_Capstone_Project_Presentation.pptx)
 
 ## Dashboard
 
